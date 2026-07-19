@@ -1,20 +1,3 @@
-# Universal Discord Downloader & Utility Bot
-
-A versatile Python-based Discord bot designed to manage server greetings and automatically detect, fetch, and download media (videos/photos) from various major social media platforms directly into Discord chat channels. 
-
-The official repository for this project can be accessed at [GitHub - miamorgvn/Discord-Downloader-Bot](https://github.com/miamorgvn/Discord-Downloader-Bot.git).
-
-## 🚀 Key Features
-
-* **Multi-Platform Support**: Download video and media content from popular platforms (Instagram, TikTok, YouTube Shorts, Twitter/X, etc.).
-* **Universal Link Parser**: Smart system that automatically detects media links in chat without needing manual commands.
-* **Large File Handling**: Built to process and support high-quality video downloads of **up to 500MB** efficiently.
-* **Welcome & Goodbye System**: Automatically greets new members upon joining and sends a departure message when they leave the server.
-* **Session & Cookie Management**: Uses local session file management to bypass platform encryption limits and securely download private content.
-* **Secure Environment**: Protects sensitive credentials using environment variable encapsulation (`.env`).
-
-## 🛠️ Tech Stack
-
 # Ichimiwa Bot - Universal Discord Downloader & Utility Bot
 
 A versatile Python-based Discord bot designed to manage server greetings and automatically detect, fetch, and download media (videos/photos) from various major social media platforms directly into Discord chat channels. 
